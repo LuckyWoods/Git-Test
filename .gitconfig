@@ -1,3 +1,0 @@
-git config --global user.name "Lucky Woods" 
-git config --global user.email lucjwood@ut.utm.edu 
-git config --global core.editor emacs
